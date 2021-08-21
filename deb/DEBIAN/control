@@ -1,0 +1,6 @@
+Package: com.gitee.markdown.spark
+Version: 1.0
+Architecture: amd64
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: 
+Description: 一个基于 Qt 制作的一个 markdown 实时转换软件
